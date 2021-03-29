@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samitha Randeniya
 - 👀 I’m interested in applications of Machine learning. Enthusiast on self-driving cars. Also, love to teach 
-- 🌱 I’m currently diging into DC GANs
+- 🌱 I’m currently diging into NLP and DC GANs
 - 💞️ I’m looking to collaborate on any type of ML and **CNN** projects
 - 📫 How to reach me -  
 -                       email: samitha156@gmail.com
