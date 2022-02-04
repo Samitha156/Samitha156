@@ -6,6 +6,7 @@
 -                       email: samitha156@gmail.com
 -                       linkedIn: https://www.linkedin.com/in/samitha-randeniya-35ab8595/
 -                       Youtube: https://www.youtube.com/channel/UCABb7gKYwES4TXxj0nu3_BQ
+-                       Tableau: https://public.tableau.com/app/profile/samitha.parinda.randeniya#!/?newProfile=&activeTab=0
 
 <!---
 Samitha156/Samitha156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
